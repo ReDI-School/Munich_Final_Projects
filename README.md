@@ -1,5 +1,11 @@
 # Munich_Final_Projects
 
+> ## Autumn Semester 2021:
+
+>> ### Introduction to Computer Science Class:
+
+>> ### Python Intermediate Class:
+
 > ## Spring Semester 2021:
 >> ### Introduction to Computer Science Class
 >>
