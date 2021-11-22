@@ -3,7 +3,11 @@
 > ## Autumn Semester 2021:
 
 >> ### Introduction to Computer Science Class:
-
+>> Student Name | Project Link
+>> ---------|---------
+>>  | 
+>>  | 
+>
 >> ### Python Intermediate Class:
 
 > ## Spring Semester 2021:
